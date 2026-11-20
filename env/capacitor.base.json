@@ -1,0 +1,10 @@
+{
+  "appId": "com.stemacm.ipasscheck",
+  "appName": "iPass Badge Check",
+  "webDir": "src",
+  "plugins": {
+    "PrivacyScreen": {
+      "enable": false
+    }
+  }
+}
