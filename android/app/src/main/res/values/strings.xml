@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">iPass Badge Check</string>
+    <string name="title_activity_main">iPass Badge Check</string>
+    <string name="package_name">com.stemacm.ipasscheck</string>
+    <string name="custom_url_scheme">com.stemacm.ipasscheck</string>
+</resources>
